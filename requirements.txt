@@ -1,0 +1,10 @@
+Hadoop cluster access
+Jupyter notebook
+Python
+Matplotlib
+Seaborn
+Scikit-learn (for machine learning)
+Keras (for ResNet model)
+OpenCV (for image processing)
+NumPy
+Pandas
