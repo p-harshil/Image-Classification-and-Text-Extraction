@@ -1,4 +1,4 @@
-# Image-Classification-and-Text-Extraction
+# Object-Detection-and-Text-Extraction
 
 ### Overview:
 This project aims to classify images of wine and wine bottles using the ResNet deep learning model. The dataset used in this project is the Wine category subset 
